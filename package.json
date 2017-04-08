@@ -1,0 +1,15 @@
+{
+    "name": "function-meter",
+    "version": "0.1.0",
+    "description": "TypeScript class to limit frequency and concurrency of function calls",
+    "keywords": [
+        "TypeScript",
+        "Meter",
+        "Callback",
+        "Limit"
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "uuid": ">= 3.0.1"
+    }
+}
